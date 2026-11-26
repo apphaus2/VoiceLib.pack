@@ -12,6 +12,8 @@ Every file in these releases is a third party's work, redistributed under that p
 
 Only models whose licences allow redistribution are here, and never a voice or a model whose licence forbids commercial use. A model whose redistribution terms are not plain from its licence and its source page is not here; VoiceLib simply has no such source for it and downloads it from its upstream alone.
 
+The Pocket TTS releases (`pocket-tts-en`, `-de`, `-es`, `-fr`, `-it`, `-pt`) are mirrored copies of files published upstream under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode): the model by Kyutai at https://huggingface.co/kyutai/pocket-tts, the ONNX files at https://huggingface.co/IgnitiveLabs/PocketTTS-ONNX and https://huggingface.co/OpenVoiceOS/phoonnx-pocket-tts, and the voices' licences at https://huggingface.co/kyutai/tts-voices; the two non-commercial voices (`cosette`, `jean`) are not here.
+
 If you use these files, the licence and attribution of each model apply to you as they would to a copy from the upstream.
 
 ## How the names map
